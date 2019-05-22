@@ -3,9 +3,7 @@
 int main()
 {
   printf("Hello World!\n");
-  return 0;
-  printf("CCA\n")
-  return 0;
-  printf("APCSP\n")
+  printf("CCA\n");
+  printf("APCSP\n");
   return 0;
 }
