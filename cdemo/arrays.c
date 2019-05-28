@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 void addArray();
 void main()
@@ -9,7 +9,7 @@ void main()
   arr[a] = a*a;
   printf("%d\n", arr[a]);
 }
-print f(" \n");
+printf("\n");
 addArray(arr, 100, 1);
 }
 
